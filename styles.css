@@ -29,7 +29,7 @@ div.post-body {padding: 10px;}
 div.titleheader {
     display: flex;
     flex-direction: column;
-    gap: 5px;
+    gap: 2px;
 }
 div.dots {
     align-self: auto;
@@ -41,7 +41,7 @@ div.dots {
 
 div.post-icons {
     display: flex;
-    font-size: 20px;
+    font-size: 30px;
     justify-content: space-between;
 }
 div.saveicon {
